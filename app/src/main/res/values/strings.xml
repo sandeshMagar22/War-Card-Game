@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">War Card Game</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="play">Play</string>
+    <string name="_0">0</string>
+    <string name="_1">0</string>
+</resources>
